@@ -17,7 +17,7 @@ on:
       ssh:
         description: 'SSH connection to Actions'
         required: false
-        default: 'false'
+        default: 'true'
 
 # lede源码 REPO_URL: https://github.com/coolsnowwolf/lede
 #         REPO_BRANCH: master
