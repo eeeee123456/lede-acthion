@@ -25,3 +25,6 @@ git clone https://github.com/jerrykuku/luci-theme-argon.git package/diy/argon
 git clone https://github.com/monokoo/luci-app-arpbind.git package/diy/arpbind
 git clone https://github.com/zxl78585/luci-app-autoreboot.git package/diy/autoreboot
 git clone https://github.com/zxl78585/luci-app-filetransfer.git package/diy/filetransfer
+
+git clone https://github.com/mchome/openwrt-vlmcsd.git package/diy/vlmcsd
+git clone https://github.com/mchome/luci-app-vlmcsd.git package/diy/luci-vlmcsd
