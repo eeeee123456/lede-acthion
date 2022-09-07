@@ -16,5 +16,5 @@
 #建立目录
 mkdir package/diy
 #过校园网检测
-git clone https://github.com/EOYOHOO/UA2F.git package/UA2F package/diy/UA2F
-git clone https://github.com/EOYOHOO/rkp-ipid.git package/rkp-ipid package/diy/rkp-ipid
+git clone https://github.com/EOYOHOO/UA2F.git package/diy/UA2F
+git clone https://github.com/EOYOHOO/rkp-ipid.git package/diy/rkp-ipid
