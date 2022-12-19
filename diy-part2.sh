@@ -14,7 +14,7 @@
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
 
 #建立目录
-mkdir package/diy
+#mkdir package/diy
 #过校园网检测
-git clone https://github.com/EOYOHOO/UA2F.git package/diy/UA2F
-git clone https://github.com/EOYOHOO/rkp-ipid.git package/diy/rkp-ipid
+#git clone https://github.com/EOYOHOO/UA2F.git package/diy/UA2F
+#git clone https://github.com/EOYOHOO/rkp-ipid.git package/diy/rkp-ipid
